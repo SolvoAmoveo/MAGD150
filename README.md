@@ -10,25 +10,25 @@ The projects below are ordered from oldest to newest.
 ### [Project 1](URL)
 
 
-### [Project 2]
+### [Project 2](URL)
 
 
-### [Project 3]
+### [Project 3](URL)
 
 
-### [Project 4]
+### [Project 4](URL)
 
 
-### [Project 5]
+### [Project 5](URL)
 
 
-### [Project 6]
+### [Project 6](URL)
 
 
-### [Project 7]
+### [Project 7](URL)
 
 
-### [Project 8]
+### [Project 8](URL)
 
 
-### [Project 9]
+### [Project 9](URL)
