@@ -7,8 +7,8 @@ This repository is for all my projects created in the course MAGD150.
 
 The projects below are ordered from oldest to newest.
 
-### Project 1
-[www.google.com](First Project)
+### [Project 1](www.google.com)
+
 
 ### Project 2
 
